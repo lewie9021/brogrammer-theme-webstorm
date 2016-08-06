@@ -2,14 +2,20 @@
 
 Here is a port of the excellent [Brogrammer theme by Ken Wheeler](https://github.com/kenwheeler/brogrammer-theme).
  
-### Supported Languages
+### Supported Colors & Fonts
 
-- [x] HTML / XML
+- [x] HTML
+- [x] XML (React)
 - [x] JavaScript
+- [x] Console
 
 ### TODO
 
-- [ ] CSS / Sass
+- [ ] CSS
+- [ ] Sass
+- [ ] Less
 - [ ] JSON
 - [ ] Markdown
 - [ ] RegExp
+- [ ] VCS
+- [ ] Diff & Merge
