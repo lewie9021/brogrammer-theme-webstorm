@@ -259,63 +259,54 @@
     </option>
     <option name="CSS.COLOR">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
-      </value>
-    </option>
-    <option name="CSS.COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="ff6a38" />
+        <option name="FOREGROUND" value="2ecc71" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="ff6a38" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e74c3c" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff6a38" />
+        <option name="FOREGROUND" value="e74c3c" />
       </value>
     </option>
-    <option name="CSS.NUMBER">
+    <option name="CSS.OPERATORS">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="ecf0f1" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="ff6a38" />
+        <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="dee3ec" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
-    <option name="CSS.STRING">
+    <option name="CSS.PSEUDO">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="2ecc71" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ff6a38" />
-      </value>
-    </option>
-    <option name="CSS.URL">
-      <value>
-        <option name="FOREGROUND" value="287bde" />
+        <option name="FOREGROUND" value="e74c3c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -532,26 +523,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="222222" />
-        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+        <option name="BACKGROUND" value="ae81ff" />
+        <option name="ERROR_STRIPE_COLOR" value="e74c3c" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="222222" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+        <option name="BACKGROUND" value="cf4333" />
+        <option name="ERROR_STRIPE_COLOR" value="e74c3c" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="222222" />
-        <option name="ERROR_STRIPE_COLOR" value="447152" />
+        <option name="BACKGROUND" value="e79d16" />
+        <option name="ERROR_STRIPE_COLOR" value="e74c3c" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="222222" />
-        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+        <option name="BACKGROUND" value="2d994c" />
+        <option name="ERROR_STRIPE_COLOR" value="e74c3c" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
