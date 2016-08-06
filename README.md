@@ -9,6 +9,7 @@ Here is a port of the excellent [Brogrammer theme by Ken Wheeler](https://github
 - [x] JavaScript
 - [x] CSS
 - [x] Sass
+- [x] Markdown
 - [x] JSON
 - [x] Console
 - [x] VCS
@@ -17,6 +18,5 @@ Here is a port of the excellent [Brogrammer theme by Ken Wheeler](https://github
 **TODO**
 
 - [ ] Less
-- [ ] Markdown
 - [ ] RegExp
 - [ ] Screenshots
