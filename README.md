@@ -1,6 +1,6 @@
 # Brogrammer (WebStorm)
 
-Here is a port of the excellent [Brogammer theme by Ken Wheeler](https://github.com/kenwheeler/brogrammer-theme).
+Here is a port of the excellent [Brogrammer theme by Ken Wheeler](https://github.com/kenwheeler/brogrammer-theme).
  
 ### Supported Languages
 
